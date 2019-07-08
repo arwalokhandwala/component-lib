@@ -5,7 +5,7 @@ import './index.css';
 export class Button extends React.Component {
     render() {
         return (
-            <div >
+            <div>
                 <button className="btn">Submit</button>
             </div>
         );
